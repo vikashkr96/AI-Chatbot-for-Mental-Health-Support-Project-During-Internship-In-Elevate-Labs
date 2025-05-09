@@ -40,9 +40,6 @@ Chatbot Development: Design and develop an AI-powered chatbot capable of providi
 -   **A.** ListenAI will be able to provide set up reminders for users and maintain a timeline of their activities.
 -   **B.** ListenAI will be able to speak to users.
 
-### Team Members:
+### Developed by : 
 
--   [Devanshu Mahapatra](https://github.com/Devanshu-17/)
--   [Nishank Jain](https://github.com/NishankJain03)
--   [Subhashish Mahapatra](https://github.com/SubhashishMahapatra)
--   [Athul Nair](https://github.com/athulnairrr)
+-   [Vikash Kumar ](https://github.com/vikashkr96)
